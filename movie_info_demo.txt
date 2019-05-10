@@ -1,0 +1,6 @@
+name	critic-score	audience-score	rating	genres	director_score	writer_score	actor_score	theater-date	streaming-date	box-office	runtime	studio
+Mile 22	23%	45%	R (strong violence and language throughout)	Action & Adventure	57.0	23.0	51.0,20.0,76.5,32.5	Aug 17, 2018 wide	Oct 30, 2018	NA	90 minutes	STXfilms
+Disney's A Christmas Carol	54%	58%	PG (for scary sequences and images)	Animation,Drama,Kids & Family,Science Fiction & Fantasy	63.0	63.0	49.0,54.0,64.0,57.0	Nov 6, 2009 wide	Nov 16, 2010	$137,816,456	96 minutes	Walt Disney Studios
+Kung Fu Panda 3 (2016)	86%	78%	PG (for martial arts action and some mild rude humor)	Animation	86.0	74.0	64.0,48.0,37.5,70.0	Jan 29, 2016 wide	Jun 28, 2016	$128,341,070	94 minutes	DreamWorks Animation
+An Education2009	95%	80%	PG-13 (for mature thematic material involving sexual content, and for smoking)	Art House & International,Drama	86.5	90.0	75.5,60.5,62.0,57.0	Oct 9, 2009 wide	Mar 30, 2010	$12,512,069	101 minutes	Sony Classics
+Wanted2008	71%	69%	R (for strong bloody violence throughout, pervasive language and some sexuality)	Action & Adventure,Mystery & Suspense,Science Fiction & Fantasy	58.0	71.0	64.0,52.0,48.0,59.5	Jun 12, 2008 wide	Dec 2, 2008	$134,294,280	110 minutes	Universal Pictures
